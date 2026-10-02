@@ -90,6 +90,15 @@ The project includes an interactive Streamlit web application where users can en
 - Payment amounts
 
 The application returns a predicted probability of default and a corresponding risk indication.
+### Application Preview
+
+#### Customer Information
+
+![Credit Card Default Prediction - Customer Information](app-overview.png)
+
+#### Prediction Result
+
+![Credit Card Default Prediction - Prediction Result](prediction-result.png)
 
 ## 🛠️ Technologies Used
 
